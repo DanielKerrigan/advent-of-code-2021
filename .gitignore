@@ -1,0 +1,6 @@
+.ionide/
+.vscode/
+.config/
+bin/
+obj/
+.fake
